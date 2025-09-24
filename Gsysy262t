@@ -1,4 +1,4 @@
-local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/Hva72bk0a140/Eyey52t2h82j/refs/heads/main/Hwgwv6242"))()
+local Games = loadstring(game:HttpGet("https://luna-hub-public.vercel.app/api/luna-hub-public-protected-7wj6g0nha6g3"))()
 
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
